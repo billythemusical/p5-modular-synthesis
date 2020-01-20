@@ -1,3 +1,4 @@
+// here we have a sequence controlling the filter's frequency applied to noise
 let noise;
 let filt;
 let freq = 400;
@@ -13,13 +14,6 @@ function setup() {
     
   // as before
   env = new p5.Envelope();
-  
-  // the Envelope object has a default ADSR values.  We can modify them as below
-  // let a = 0.1;
-  // let d = 0.1;
-  // let s = 1;
-  // let r = 0.0;
-  // env.setADSR(a, d, s, r);
   
   filt = new p5.Filter();
   noise = new p5.Noise(); 
