@@ -30,7 +30,7 @@ Let’s take a look at what these modules do briefly.
 
 <b>Envelopes</b> are useful in recreating more life-like sounds as organic instruments have a characteristic pattern of changes in volume while being played.  For instance, when a piano key is struck and held down, the sound almost immediately appears and disappears slowly over the course of a few seconds.  We can mimic this volume change over time by passing an envelope object into the amplitude of our sound source, whether that’s noise or an oscillator.  <a href="https://editor.p5js.org/billythemusical/sketches/ttn3ofn_N">Here</a> is an example that uses the space bar to trigger an envelope.
 
-A <b>sequencer</b> is simply a device for storing values over time.  We feed these values into different objects over time in order to orchestrate our patches.  We will most often be using arrays to store the values and the draw() function and frameCount to move through our the array.  <a href="https://editor.p5js.org/billythemusical/sketches/1Cgm0sKHT">Here</a> is an example.
+A <b>sequencer</b> is simply a device for storing values over time.  We feed these values into different objects over time in order to orchestrate our patches.  We will most often be using arrays to store the values and the draw() function and frameCount to move through our the array.  <a href="https://editor.p5js.org/billythemusical/sketches/1Cgm0sKHT">Here</a> is an example.  We can also use sequencers like a musical score and tell an oscillator which pitches to play.  <a href="https://editor.p5js.org/billythemusical/sketches/E8MGsFYwn">Here</a> is an example that uses MIDI values to do just that.
 
 <h2>Making a Patch</h2>
 
