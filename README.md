@@ -1,24 +1,26 @@
 # p5-modular-synthesis
 A set of code examples in p5 for a modular synthesis workshop.
 
-<b><u>Introduction</b></u>
+<h1>Introduction</h1>
 
 The p5.js library is a great entry point to javascript coding as it simplifies many of the complex functions and esoteric syntax, giving easier access to the tools available for creation in modern web browsers like those for graphics and sound.
 
 Modular synthesis is a form of sound design and experimentation that has been around since the early 1960’s and has since seen a resurgence in popularity with the introduction of the Eurorack system and boutique sales made ubiquitous by the internet.  
 
-<b><u>Requirements</b></u>
+<h1>Requirements</h1>
 
 A basic understanding of javascript programming in p5.js and a laptop with a modern browser, Chrome of Firefox preferred.  
 
-<b><u>Building Blocks</b></u>
+<h1>Building Blocks</h1>
 
 Many of the basic functions of a modular synthesis are built in to the p5.sound.js library already.  These include, but are not limited to:
 
-Oscillators
-Filters
-Envelopes
-Sequencers
+<ul>
+  <li>Oscillators</li>
+  <li>Filters</li>
+  <li>Envelopes</li>
+  <li>Sequencers</li>
+</ul>
 
 Let’s take a look at what these modules do briefly.
 
@@ -30,7 +32,7 @@ Let’s take a look at what these modules do briefly.
 
 A <b>sequencer</b> is simply a device for storing values over time.  We feed these values into different objects over time in order to orchestrate our patches.  We will most often be using arrays to store the values and the draw() function and frameCount to move through our the array.  <href url=https://editor.p5js.org/billythemusical/sketches/1Cgm0sKHT>Here</href> is an example.
 
-<b><u>Making a Patch</b></u>
+<h1>Making a Patch</h1>
 
 Now that we have some of the basic elements laid out, we can begin to patch these together to make some interesting sounds and also see why programming can be a unique way to control sound that would otherwise be inaccessible in the physical world of modular synthesis.  Let’s begin here.
 
