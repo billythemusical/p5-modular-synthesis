@@ -36,3 +36,10 @@ A <b>sequencer</b> is simply a device for storing values over time.  We feed the
 
 Now that we have some of the basic elements laid out, we can begin to patch these together to make some interesting sounds and also see why programming can be a unique way to control sound that would otherwise be inaccessible in the physical world of modular synthesis.  Let’s begin here.
 
+<h2>Going Further</h2>
+
+Luke Dubois (@rev3rend) has made a number of modular synthesis examples that run in the browser.  Check them out below:
+<ul>
+  <li><a href="https://www.openprocessing.org/sketch/761918">Sequencer<a></li>
+  </ul>
+
