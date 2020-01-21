@@ -1,3 +1,10 @@
+/* 
+"shelfisizer1" by R. Luke DuBois
+http://www.openprocessing.org/sketch/761918
+Licensed under Creative Commons Attribution ShareAlike
+https://creativecommons.org/licenses/by-sa/3.0https://creativecommons.org/licenses/GPL/2.0/
+*/
+
 var oA, oB, oC, oD;
 var eA, eB, eC, eD;
 var rev;
