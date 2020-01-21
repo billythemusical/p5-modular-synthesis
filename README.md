@@ -38,8 +38,5 @@ Now that we have some of the basic elements laid out, we can begin to patch thes
 
 <h2>Going Further</h2>
 
-Luke Dubois (@rev3rend) has made a number of modular synthesis examples that run in the browser.  Check them out below:
-<ul>
-  <li><a href="https://www.openprocessing.org/sketch/761918">Sequencer<a></li>
-  </ul>
+If you would like to explore more of these concepts in depth, you can check out Luke Dubois' <a href="https://itp.nyu.edu/adjacent/issue-6/precisely-experimental-a-progression-of-analog-synthesizers/">Adjacent article</a> where has made a number of modular synthesis examples that run in the browser.  I have included these sketches (shelfisizer1, shelfisizer2, shelfisizer3) in this repo for quick reference.
 
