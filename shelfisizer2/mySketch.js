@@ -1,3 +1,10 @@
+/*
+"shelfisizer2" by R. Luke DuBois
+http://www.openprocessing.org/sketch/764799
+Licensed under Creative Commons Attribution ShareAlike
+https://creativecommons.org/licenses/by-sa/3.0https://creativecommons.org/licenses/GPL/2.0/
+*/
+
 //
 // modes -
 // 0 - 6 channels... input goes high and sets bit for a single trigger
