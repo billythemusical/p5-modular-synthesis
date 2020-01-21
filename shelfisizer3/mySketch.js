@@ -1,4 +1,10 @@
-
+/*
+"shelfisizer3" by R. Luke DuBois
+http://www.openprocessing.org/sketch/764951
+Licensed under Creative Commons Attribution ShareAlike 
+https://creativecommons.org/licenses/by-sa/3.0
+https://creativecommons.org/licenses/GPL/2.0/
+*/
 var o = new Array(3); // oscillators
 var e = new Array(3); // envelopes
 var rev;
