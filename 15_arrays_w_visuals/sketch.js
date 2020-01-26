@@ -1,3 +1,10 @@
+/*
+Particle movement based on work from 
+  The Nature of Code
+    by Daniel Shiffman
+  http://natureofcode.com
+*/
+
 /* now we can add visuals with our sound by uncommenting lines 29 and 47-50 */
 let oscs = [];
 let filts = [];
